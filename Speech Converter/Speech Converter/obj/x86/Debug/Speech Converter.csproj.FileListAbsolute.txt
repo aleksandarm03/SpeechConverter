@@ -1,0 +1,8 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\Speech Converter\obj\x86\Debug\Speech Converter.csprojResolveAssemblyReference.cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Speech Converter\obj\x86\Debug\Speech_Converter.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Speech Converter\obj\x86\Debug\Speech_Converter.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Speech Converter\obj\x86\Debug\Speech Converter.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Speech Converter\bin\Debug\Speech Converter.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Speech Converter\bin\Debug\Speech Converter.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\Speech Converter\obj\x86\Debug\Speech Converter.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Speech Converter\obj\x86\Debug\Speech Converter.pdb
